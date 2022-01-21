@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am currently enrolled into ETSU for Computing, mainly Information Technology. I am currently working on multiple projects, one including Ninja Ninja, which you can learn more about at @BooleanJunction on twitter. A hobby of mine is Chess, as well as Rubik's Cube solving.
 <!--
 **EvasiveAce/EvasiveAce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
