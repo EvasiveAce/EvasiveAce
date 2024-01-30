@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am currently enrolled into ETSU for Computing, mainly Information Technology. I am currently working on multiple projects, one including Ninja Ninja, which you can learn more about at the itch.io page linked below. A hobby of mine is Chess.
-
+I am currently enrolled into ETSU for Computing, concentrating in Information Technology. I am currently working on multiple projects, one including Ninja Ninja Forever, which you can learn more about at the itch.io page linked below.
+Creator of the hit game "Mo' Rockets"
 [evasiveace.itch.io/](https://evasiveace.itch.io/)
 <!--
 **EvasiveAce/EvasiveAce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
