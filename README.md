@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently enrolled into ETSU for Computing, concentrating in Information Technology. I am currently working on multiple projects, one including Ninja Ninja Forever, which you can learn more about at the itch.io page linked below.
+I am an ETSU alumni with a BS in Computing!
 
 Creator of the hit game [Mo Rockets](https://evasiveace.itch.io/mo-rockets)
 
