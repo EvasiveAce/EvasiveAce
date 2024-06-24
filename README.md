@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am an ETSU alumni with a BS in Computing!
 
-Creator of the hit game [Mo Rockets](https://evasiveace.itch.io/mo-rockets)
+Check out my latest game: [Mo Rockets](https://evasiveace.itch.io/mo-rockets)
 
 [evasiveace.itch.io/](https://evasiveace.itch.io/)
 <!--
