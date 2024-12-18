@@ -37,7 +37,7 @@ My name is Ethan, and I am a recent [East Tennessee State University](https://ww
 ## Contact
 Feel free to connect.
 
-[![Email](https://img.shields.io/badge/Email-30B980?style=flat-square&logo=minutemailer&logoColor=ffffff&link=mailto:hensleyej@etsu.edu)](mailto:hensleyej@etsu.edu)
+[![Email](https://img.shields.io/badge/Email-30B980?style=flat-square&logo=minutemailer&logoColor=ffffff&link=mailto:hensley.ethan64@gmail.com)](mailto:hensley.ethan64@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff&link=https://www.linkedin.com/in/hensleyej/)](https://www.linkedin.com/in/hensleyej/)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=evasiveace.evasiveace)
