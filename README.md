@@ -39,6 +39,7 @@ Feel free to connect.
 
 [![Email](https://img.shields.io/badge/Email-30B980?style=flat-square&logo=minutemailer&logoColor=ffffff&link=mailto:hensley.ethan64@gmail.com)](mailto:hensley.ethan64@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff&link=https://www.linkedin.com/in/hensleyej/)](https://www.linkedin.com/in/hensleyej/)
+[![Website](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff&link=https://hensley.app/)](https://hensley.app/)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=evasiveace.evasiveace)
 #### Thanks for Reading!
