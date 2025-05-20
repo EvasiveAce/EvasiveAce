@@ -38,8 +38,8 @@ My name is Ethan, and I am a recent [East Tennessee State University](https://ww
 Feel free to connect.
 
 [![Email](https://img.shields.io/badge/Email-30B980?style=flat-square&logo=minutemailer&logoColor=ffffff&link=mailto:hensley.ethan64@gmail.com)](mailto:hensley.ethan64@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff&link=https://www.linkedin.com/in/hensleyej/)](https://www.linkedin.com/in/hensleyej/)
-[![Website](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff&link=https://hensley.app/)](https://hensley.app/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/hensleyej/)](https://www.linkedin.com/in/hensleyej/)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=firefox&logoColor=white&link=https://hensley.app/)](https://hensley.app/)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=evasiveace.evasiveace)
 #### Thanks for Reading!
