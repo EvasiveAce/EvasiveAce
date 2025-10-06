@@ -2,7 +2,7 @@
 My name is Ethan, and I am a recent [East Tennessee State University](https://www.etsu.edu/ehome/) Computing Graduate. I love developing software, creating video games, and solving problems. Open to work, feel free to contact. 
 
 #### Check out my latest game, [Mo' Rockets](https://morockets.xyz)!
-![gifForGithubMoRockets](https://cdn.discordapp.com/attachments/1163913919002312744/1421155575672213525/NewGrounds.png?ex=68d801c5&is=68d6b045&hm=edb41f5e7c2ae1bb37eeb9953cf9fba5d54775319ca629740bdb822a6062f396&)
+![gifForGithubMoRockets](https://github.com/EvasiveAce/mo-rockets/blob/main/Common/MainMenu/Sprites/NewGrounds.png?raw=true)
 
 ## Technologies & Tools
 ### Languages
