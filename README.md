@@ -1,7 +1,7 @@
-# Welcome to my profile. 👋
+# Welcome to my profile!
 My name is Ethan, and I am a recent [East Tennessee State University](https://www.etsu.edu/ehome/) Computing Graduate. I love developing software, creating video games, and solving problems. Open to work, feel free to contact. 
 
-#### Check out my latest game, [Mo' Rockets](https://morockets.xyz)!
+#### Check out my latest game, [Mo' Rockets](https://www.newgrounds.com/portal/view/999410)!
 ![gifForGithubMoRockets](https://github.com/EvasiveAce/mo-rockets/blob/main/Common/MainMenu/Sprites/NewGrounds.png?raw=true)
 
 ## Technologies & Tools
